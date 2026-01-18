@@ -1,4 +1,17 @@
 int iniciadasesion = true;
+int usuario = 3;
+
+string nombre = "";
+
 if(iniciadasesion == true){
 	iniciadasesion = false;
+}
+
+switch(usuario){
+	case 1:
+		nombre = "Alexander";
+	break;
+	case 2: 
+		nombre = "Antony"
+	break;
 }
