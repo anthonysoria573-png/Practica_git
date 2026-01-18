@@ -1,0 +1,4 @@
+int iniciadasesion = true;
+if(iniciadasesion == true){
+	iniciadasesion = false;
+}
